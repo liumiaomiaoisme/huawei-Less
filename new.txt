@@ -6,5 +6,6 @@ git log 提交日志
 git log--pretty=oneline 一行显示
 git reset --hard 版本号
 git reflog 查找之前的版本
+git checkout -- file  丢掉工作区的修改
 
 最新
