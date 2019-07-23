@@ -1,2 +1,8 @@
-01232
-我改了这一行
+git status 工作区状态 
+git diff 查看修改内容
+git add 文件名.扩展名
+git commit -m "文件提交的描述"
+git log 提交日志
+git log--pretty=oneline 一行显示
+
+这是航会被修改
