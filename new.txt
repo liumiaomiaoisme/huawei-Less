@@ -4,5 +4,7 @@ git add 文件名.扩展名
 git commit -m "文件提交的描述"
 git log 提交日志
 git log--pretty=oneline 一行显示
+git reset --hard 版本号
+git reflog 查找之前的版本
 
-这是航会被修改
+最新
